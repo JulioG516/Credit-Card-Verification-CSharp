@@ -1,7 +1,7 @@
 # Credit Card Verification using Luhn Algorithm
 This is a simple project in C# that implements the Luhn algorithm to verify the validity of a credit card number. The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers, including credit card numbers.
 
-Luhn Algorithm
+# Luhn Algorithm
 The Luhn algorithm is a simple checksum formula that can be used to validate a variety of identification numbers, such as credit card numbers, IMEI numbers, and National Provider Identifier numbers. The algorithm works by performing a series of steps on the digits of the number to be verified.
 
 Starting from the rightmost digit and moving left, double every second digit.
